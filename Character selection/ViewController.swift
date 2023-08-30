@@ -10,6 +10,8 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var ImageOutlet: UIImageView!
+     
+    var test = 7
     
     @IBOutlet weak var ImageOutlet2: UIImageView!
     override func viewDidLoad() {
